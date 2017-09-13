@@ -1,5 +1,5 @@
-Jordan
-Worthington
-first line
-second line
-thrid line
+Jordan\n
+Worthington\n
+First Line\n
+Second Line\n
+Third Line\n
