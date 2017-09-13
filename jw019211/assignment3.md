@@ -1,5 +1,5 @@
 Jordan
 Worthington
-first line
-second line
-thrid line
+First Line
+Second Line
+Third Line
