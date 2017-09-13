@@ -1,2 +1,1 @@
-Bohong Li
-P100143092
+Bohong
