@@ -1,4 +1,4 @@
-Dashaun Slaughter \n
-First line of text\n
-Second line of text\n
+Dashaun Slaughter
+First line of text
+Second line of text
 Third line of text
