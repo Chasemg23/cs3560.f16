@@ -1,0 +1,109 @@
+njacobso@sp-012:~/cs3650/cs3560.f16/nj367715$ git log assignment3.md 
+commit ab5c159ec517a391b764275e9771a90350b58447
+Author: nojacobson <nojacobson@outlook.com>
+Date:   Wed Sep 13 20:36:57 2017 -0400
+
+    three lines
+
+commit 55a46b46021289f08ccd9d3ea87bcec4afc7cb01
+Author: Noah Jacobson <njacobso@sp-012.cs.ohiou.edu>
+Date:   Wed Sep 13 20:30:13 2017 -0400
+
+    last name
+
+commit 15f4f436330fd164d605c3ff27ce9dc49d876b19
+Author: nojacobson <nojacobson@outlook.com>
+Date:   Wed Sep 13 20:23:18 2017 -0400
+
+    first name
+
+commit 7e78010320b04be62d9cb8780706e31788acbc2f
+Author: nojacobson <nojacobson@outlook.com>
+Date:   Wed Sep 13 20:04:12 2017 -0400
+
+    Delete assignment3.md
+:...skipping...
+commit ab5c159ec517a391b764275e9771a90350b58447
+Author: nojacobson <nojacobson@outlook.com>
+Date:   Wed Sep 13 20:36:57 2017 -0400
+
+    three lines
+
+commit 55a46b46021289f08ccd9d3ea87bcec4afc7cb01
+Author: Noah Jacobson <njacobso@sp-012.cs.ohiou.edu>
+Date:   Wed Sep 13 20:30:13 2017 -0400
+
+    last name
+
+commit 15f4f436330fd164d605c3ff27ce9dc49d876b19
+Author: nojacobson <nojacobson@outlook.com>
+Date:   Wed Sep 13 20:23:18 2017 -0400
+
+    first name
+
+commit 7e78010320b04be62d9cb8780706e31788acbc2f
+Author: nojacobson <nojacobson@outlook.com>
+Date:   Wed Sep 13 20:04:12 2017 -0400
+
+    Delete assignment3.md
+
+:...skipping...
+commit ab5c159ec517a391b764275e9771a90350b58447
+Author: nojacobson <nojacobson@outlook.com>
+Date:   Wed Sep 13 20:36:57 2017 -0400
+
+    three lines
+
+commit 55a46b46021289f08ccd9d3ea87bcec4afc7cb01
+Author: Noah Jacobson <njacobso@sp-012.cs.ohiou.edu>
+Date:   Wed Sep 13 20:30:13 2017 -0400
+
+    last name
+
+commit 15f4f436330fd164d605c3ff27ce9dc49d876b19
+Author: nojacobson <nojacobson@outlook.com>
+Date:   Wed Sep 13 20:23:18 2017 -0400
+
+    first name
+
+commit 7e78010320b04be62d9cb8780706e31788acbc2f
+Author: nojacobson <nojacobson@outlook.com>
+Date:   Wed Sep 13 20:04:12 2017 -0400
+
+    Delete assignment3.md
+
+commit fb6f1c369efbf3d8f8e7510c1943f8a88d8291bb
+Author: Noah Jacobson <njacobso@sp-012.cs.ohiou.edu>
+Date:   Wed Sep 13 19:54:43 2017 -0400
+
+    last name
+
+commit 6e9b101049a6c57295c0d5523ea37693d48e0239
+Author: Noah Jacobson <njacobso@sp-012.cs.ohiou.edu>
+Date:   Wed Sep 13 19:10:04 2017 -0400
+
+    assignment3
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+njacobso@sp-012:~/cs3650/cs3560.f16/nj367715$ 
+
