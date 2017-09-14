@@ -1,65 +1,0 @@
-Script started on Thu 14 Sep 2017 01:29:02 PM EDT
-]0;mackenzie@mackenzie-VirtualBox: ~/cs3560/cs3560.f16/ms840314[01;32mmackenzie@mackenzie-VirtualBox[00m:[01;34m~/cs3560/cs3560.f16/ms840314[00m$ gedit assignment3.m d
-]0;mackenzie@mackenzie-VirtualBox: ~/cs3560/cs3560.f16/ms840314[01;32mmackenzie@mackenzie-VirtualBox[00m:[01;34m~/cs3560/cs3560.f16/ms840314[00m$ more assignment3.md [A
-Mackenzie Schnaekel
-ms840314
-]0;mackenzie@mackenzie-VirtualBox: ~/cs3560/cs3560.f16/ms840314[01;32mmackenzie@mackenzie-VirtualBox[00m:[01;34m~/cs3560/cs3560.f16/ms840314[00m$ git add . 
-]0;mackenzie@mackenzie-VirtualBox: ~/cs3560/cs3560.f16/ms840314[01;32mmackenzie@mackenzie-VirtualBox[00m:[01;34m~/cs3560/cs3560.f16/ms840314[00m$ git commit "id"-"id"m"id" "id"
-
-*** Please tell me who you are.
-
-Run
-
-  git config --global user.email "you@example.com"
-  git config --global user.name "Your Name"
-
-to set your account's default identity.
-Omit --global to set the identity only in this repository.
-
-fatal: unable to auto-detect email address (got 'mackenzie@mackenzie-VirtualBox.(none)')
-]0;mackenzie@mackenzie-VirtualBox: ~/cs3560/cs3560.f16/ms840314[01;32mmackenzie@mackenzie-VirtualBox[00m:[01;34m~/cs3560/cs3560.f16/ms840314[00m$ git pou[K[Kush
-warning: push.default is unset; its implicit value has changed in
-Git 2.0 from 'matching' to 'simple'. To squelch this message
-and maintain the traditional behavior, use:
-
-  git config --global push.default matching
-
-To squelch this message and adopt the new behavior now, use:
-
-  git config --global push.default simple
-
-When push.default is set to 'matching', git will push local branches
-to the remote branches that already exist with the same name.
-
-Since Git 2.0, Git defaults to the more conservative 'simple'
-behavior, which only pushes the current branch to the corresponding
-remote branch that 'git pull' uses to update the current branch.
-
-See 'git help config' and search for 'push.default' for further information.
-(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
-'current' instead of 'simple' if you sometimes use older versions of Git)
-
-Username for 'https://github.com': MSchnaekel
-Password for 'https://MSchnaekel@github.com': 
-To https://github.com/itorres2607/cs3560.f16.git
- ! [rejected]        master -> master (fetch first)
-error: failed to push some refs to 'https://github.com/itorres2607/cs3560.f16.git'
-hint: Updates were rejected because the remote contains work that you do
-hint: not have locally. This is usually caused by another repository pushing
-hint: to the same ref. You may want to first integrate the remote changes
-hint: (e.g., 'git pull ...') before pushing again.
-hint: See the 'Note about fast-forwards' in 'git push --help' for details.
-]0;mackenzie@mackenzie-VirtualBox: ~/cs3560/cs3560.f16/ms840314[01;32mmackenzie@mackenzie-VirtualBox[00m:[01;34m~/cs3560/cs3560.f16/ms840314[00m$ git pull
-remote: Counting objects: 5, done.[K
-remote: Compressing objects:  25% (1/4)   [Kremote: Compressing objects:  50% (2/4)   [Kremote: Compressing objects:  75% (3/4)   [Kremote: Compressing objects: 100% (4/4)   [Kremote: Compressing objects: 100% (4/4), done.[K
-Unpacking objects:  20% (1/5)   Unpacking objects:  40% (2/5)   Unpacking objects:  60% (3/5)   Unpacking objects:  80% (4/5)   remote: Total 5 (delta 1), reused 5 (delta 1), pack-reused 0[K
-Unpacking objects: 100% (5/5)   Unpacking objects: 100% (5/5), done.
-From https://github.com/itorres2607/cs3560.f16
-   c48115d..f9db773  master     -> origin/master
-Updating c48115d..f9db773
-Fast-forward
- tb061813/Screenshot1.jpg | Bin [31m60978[m -> [32m54375[m bytes
- tb061813/Screenshot2.jpg | Bin [31m64908[m -> [32m145737[m bytes
- 2 files changed, 0 insertions(+), 0 deletions(-)
-]0;mackenzie@mackenzie-VirtualBox: ~/cs3560/cs3560.f16/ms840314[01;32mmackenzie@mackenzie-VirtualBox[00m:[01;34m~/cs3560/cs3560.f16/ms840314[00m$ git push
-warning: push.default is unset; its implicit value has changed
