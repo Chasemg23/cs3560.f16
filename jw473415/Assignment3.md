@@ -1,3 +1,2 @@
 Jason
 Wherry
-Wherry
